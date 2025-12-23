@@ -1,0 +1,16 @@
+{
+  "plugins": {
+    "eldritch.nvim": {
+      "rev": "d153de7a8a269792b75d85ef0edee2761d7c7ac5",
+      "src": "https://github.com/eldritch-theme/eldritch.nvim"
+    },
+    "mini.pick": {
+      "rev": "c488bbaa74b4b9e9ba49ebaffdd9f19b15b64a4f",
+      "src": "https://github.com/echasnovski/mini.pick"
+    },
+    "nvim-lspconfig": {
+      "rev": "b34c08e0ea22bac67798f00238318fd16bd99b7c",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    }
+  }
+}
